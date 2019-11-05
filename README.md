@@ -10,8 +10,8 @@
  1. [Maps](#maps)
  1. [Sets](#sets)
  1. [Promise](#promise)
- 1. [Regular Expressions](#regularexpressions)
- 1. [Bitwise Operators](#bitwiseoperators)
+ 1. [Regular Expressions](#regular-expressions-regex)
+ 1. [Bitwise Operators](#bitwise-operators)
 
 ---
 
